@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SaveFileManager
+comment0.text=\r\n\ A\ small\ utility\ class\ for\ retrieving\ save\ files.\r\n\r\n\ @author\ Radiance\ O.\ Ngonnase\r\n\ @version\ 2021.05.19\r\n
+comment1.params=
+comment1.target=SaveFileManager()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SaveFileManager\r\n
+comment2.params=command\ frame
+comment2.target=java.io.File\ getSaveFile(java.lang.String,\ javax.swing.JFrame)
+comment2.text=\r\n\ Get\ the\ required\ save\ file,\ using\ the\ appropriate\r\n\ JFileChooser\ dialog,\ depending\ on\ the\ command.\r\n\r\n
+numComments=3
