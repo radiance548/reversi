@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CorruptedSaveFileException
+comment0.text=\r\n\ Capture\ or\ report\ a\ corrupted\ save\ file.\r\n\ \r\n\ @author\ Radiance\ O.\ Ngonnase\r\n\ @version\ 2021.05.19\r\n
+comment1.params=saveFile
+comment1.target=CorruptedSaveFileException(java.io.File)
+comment1.text=\r\n\ Store\ the\ details\ in\ error.\r\n\ @param\ saveFile\ The\ corrupted\ save\ file.\r\n
+comment2.params=
+comment2.target=CorruptedSaveFileException()
+comment2.text=\r\n\ Another\ constructor\ for\ objects\ of\ this\ class,\ for\r\n\ when\ the\ details\ are\ unavailable\ for\ storing\ in\ error.\r\n
+comment3.params=
+comment3.target=java.io.File\ getSaveFile()
+comment3.text=\r\n\ @return\ The\ corrupted\ save\ file.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getMessage()
+comment4.text=\r\n\ @return\ A\ diagnostic\ string.\r\n
+numComments=5
