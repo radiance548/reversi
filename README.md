@@ -1,4 +1,4 @@
-# reversi
+# Reversi
 
 
 PROJECT TITLE: CO520 Assignment 4 - Reversi
